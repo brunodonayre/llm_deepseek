@@ -1,5 +1,5 @@
-#Nombre del modelo: deepseek-ai/deepseek-llm-7b-base
-#Repositorio HF: https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
+# Nombre del modelo: deepseek-ai/deepseek-llm-7b-base
+# Repositorio HF: https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
 
 # Inferencia con DeepSeek LLM 7B
 
