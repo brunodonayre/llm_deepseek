@@ -3,9 +3,12 @@
 
 Este repositorio contiene un script en Python para cargar e inferir usando el modelo de lenguaje [`deepseek-ai/deepseek-llm-7b-base`](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) a través de la librería `transformers` de Hugging Face. Este modelo es parte de la serie LLMs de DeepSeek AI, entrenado sobre un gran corpus multilingüe.
 
-## Nombre del modelo: deepseek-ai/deepseek-llm-7b-base
+## Nombre del modelo 
 
-## Repositorio HF: https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
+- deepseek-ai/deepseek-llm-7b-base
+
+## Repositorio HF 
+- https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
 
 
 ## 📁 Archivos
